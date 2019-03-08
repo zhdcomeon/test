@@ -8,7 +8,7 @@ public class test {
 
     public static void main(String[] args) {
         int[] arr = {6, 3, 8, 2, 9, 1};
-        System.out.println("排序前的数组为：");
+        System.out.println("排序前的数组为1：");
         for (int num:arr){
             System.out.println(num+"");
         }
